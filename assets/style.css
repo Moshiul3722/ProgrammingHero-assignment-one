@@ -23,9 +23,19 @@ ul > li {
   background-color: #469165;
   padding: 16px 12px;
   border-radius: 4px;
+  display: inline-block;
+  transition: all 0.3s ease;
 }
+
 .btn a {
   color: #fff;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #3b7c56;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 /* main style */
