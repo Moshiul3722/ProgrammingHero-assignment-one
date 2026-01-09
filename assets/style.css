@@ -231,8 +231,7 @@ nav > ul > li > a {
 
 .info_card {
   text-align: center;
-  /* border: 1px solid; */
-  box-shadow: 0 4px 8px 0 #00000028;
+  box-shadow: 0 -8px 20px 0 #00000010;
   border-radius: 8px;
   padding: 65px 24px;
   max-width: 300px;
